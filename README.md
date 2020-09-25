@@ -5,7 +5,9 @@
     
         python3 -m venv telegramenv
 
+- Activa environment
 
+        source telegramenv/bin/activate
 - Install requirements
 
         pip3 install -r requirements.txt
